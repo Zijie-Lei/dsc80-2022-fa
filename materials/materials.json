@@ -1,6 +1,6 @@
 {
     "collections": {
-        "lectures": {
+        "lectures/schedules/tr": {
             "publication_schema": {
                 "required_artifacts": [
                     "notebook"
@@ -49,7 +49,21 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": true
             },
-            "publications": {}
+            "publications": {
+                "01-intro": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 1,
+                        "date": "2022-09-12",
+                        "topic": "Introduction",
+                        "reading": {
+                            "title": "Chapter 1 - Introduction to Data Science",
+                            "url": "http://notes.dsc80.com/content/01/introduction.html"
+                        }
+                    },
+                    "artifacts": {}
+                }
+            }
         },
         "discussions": {
             "publication_schema": {
