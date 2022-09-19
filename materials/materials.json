@@ -54,14 +54,18 @@
                     "metadata": {
                         "videos": null,
                         "number": 1,
-                        "date": "2022-09-12",
+                        "date": "2022-09-22",
                         "topic": "Introduction",
                         "reading": {
                             "title": "Chapter 1 - Introduction to Data Science",
                             "url": "http://notes.dsc80.com/content/01/introduction.html"
                         }
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/01-intro/notebook"
+                        }
+                    }
                 }
             }
         },
