@@ -99,63 +99,63 @@
                 "01-intro": {
                     "metadata": {
                         "topic": "Introduction",
-                        "date": "2022-09-23 15:00:00",
+                        "date": "2022-09-30 15:00:00",
                         "number": 1,
-                        "due": "2022-09-24 23:59:00"
+                        "due": "2022-10-01 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "02-pandas": {
                     "metadata": {
                         "topic": "Pandas",
-                        "date": "2022-09-30 15:00:00",
+                        "date": "2022-10-07 15:00:00",
                         "number": 2,
-                        "due": "2022-10-01 23:59:00"
+                        "due": "2022-10-08 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "03-hyp-testing-combining-df": {
                     "metadata": {
                         "topic": "Plotting",
-                        "date": "2022-10-07 15:00:00",
+                        "date": "2022-10-14 15:00:00",
                         "number": 3,
-                        "due": "2022-10-08 23:59:00"
+                        "due": "2022-10-15 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "04-combining_df": {
                     "metadata": {
                         "topic": "Combining DataFrames",
-                        "date": "2022-10-14 15:00:00",
+                        "date": "2022-10-21 15:00:00",
                         "number": 4,
-                        "due": "2022-10-15 23:59:00"
+                        "due": "2022-10-22 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "04-visualization": {
                     "metadata": {
                         "topic": "Combining DataFrames",
-                        "date": "2022-10-21 15:00:00",
+                        "date": "2022-10-28 15:00:00",
                         "number": 5,
-                        "due": "2022-10-22 23:59:00"
+                        "due": "2022-10-29 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "05-scraping": {
                     "metadata": {
                         "topic": "Plotting",
-                        "date": "2022-11-04 15:00:00",
+                        "date": "2022-11-11 15:00:00",
                         "number": 7,
-                        "due": "2022-11-05 23:59:00"
+                        "due": "2022-11-12 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "06-regex-nlp": {
                     "metadata": {
                         "topic": "Plotting",
-                        "date": "2022-11-18 15:00:00",
+                        "date": "2022-11-25 15:00:00",
                         "number": 7,
-                        "due": "2022-11-19 23:59:00"
+                        "due": "2022-11-26 23:59:00"
                     },
                     "artifacts": {}
                 },
