@@ -231,7 +231,11 @@
                         "number": 1,
                         "due": "2022-10-03 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/01-intro/assignment"
+                        }
+                    }
                 },
                 "02-pandas": {
                     "metadata": {
