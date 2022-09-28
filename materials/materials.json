@@ -7,6 +7,11 @@
                 ],
                 "optional_artifacts": [],
                 "metadata_schema": {
+                    "optional_keys": {
+                        "note": {
+                            "type": "string"
+                        }
+                    },
                     "required_keys": {
                         "videos": {
                             "nullable": true,
@@ -89,7 +94,8 @@
                         "reading": {
                             "title": "Chapter 2 - Tabular Data",
                             "url": "https://notes.dsc80.com/content/02/introduction.html"
-                        }
+                        },
+                        "note": "<p style=\"font-size: 10pt\">\n    The microphone unfortunately stopped working partway through\n    this quarter's podcast recording, so we've uploaded\n    videos from a previous quarter instead. They cover\n    the same material as what was discussed in Lecture.\n</p>"
                     },
                     "artifacts": {
                         "notebook": {
