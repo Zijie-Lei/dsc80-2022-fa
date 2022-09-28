@@ -71,28 +71,24 @@
                     "metadata": {
                         "videos": [
                             {
-                                "title": "Introduction to Pandas",
-                                "url": "https://youtu.be/XA9nicGlHZI?t=135"
+                                "title": "Tabular Data in Pandas (Fall 21 Version)",
+                                "url": "https://youtu.be/W-txew6nx8s"
                             },
                             {
-                                "title": "Selecting rows with .loc and .iloc",
-                                "url": "https://youtu.be/XA9nicGlHZI?t=1744"
+                                "title": "Pandas and Numpy (Fall 21 Version)",
+                                "url": "https://youtu.be/q2BhOaUdqsI"
                             },
                             {
-                                "title": "How Pandas Works",
-                                "url": "https://youtu.be/XA9nicGlHZI?t=2811"
-                            },
-                            {
-                                "title": "Useful Series and DataFrame methods",
-                                "url": "https://youtu.be/XA9nicGlHZI?t=4323"
+                                "title": "Useful Pandas Methods (Fall 21 Version)",
+                                "url": "https://youtu.be/r1Vc7hk-Zis"
                             }
                         ],
-                        "number": 1,
-                        "date": "2022-09-22",
-                        "topic": "Introduction",
+                        "number": 2,
+                        "date": "2022-09-27",
+                        "topic": "Pandas",
                         "reading": {
-                            "title": "Chapter 1 - Introduction to Data Science",
-                            "url": "http://notes.dsc80.com/content/01/introduction.html"
+                            "title": "Chapter 2 - Tabular Data",
+                            "url": "https://notes.dsc80.com/content/02/introduction.html"
                         }
                     },
                     "artifacts": {
@@ -104,12 +100,12 @@
                 "03-messy_data": {
                     "metadata": {
                         "videos": null,
-                        "number": 1,
-                        "date": "2022-09-22",
-                        "topic": "Introduction",
+                        "number": 3,
+                        "date": "2022-09-29",
+                        "topic": "Messy Data",
                         "reading": {
-                            "title": "Chapter 1 - Introduction to Data Science",
-                            "url": "http://notes.dsc80.com/content/01/introduction.html"
+                            "title": "Chapter 4 - Understanding Assumptions and Data Cleaning",
+                            "url": "https://notes.dsc80.com/content/04/introduction.html"
                         }
                     },
                     "artifacts": {}
