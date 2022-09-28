@@ -69,7 +69,24 @@
                 },
                 "02-pandas": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Introduction to Pandas",
+                                "url": "https://youtu.be/XA9nicGlHZI?t=135"
+                            },
+                            {
+                                "title": "Selecting rows with .loc and .iloc",
+                                "url": "https://youtu.be/XA9nicGlHZI?t=1744"
+                            },
+                            {
+                                "title": "How Pandas Works",
+                                "url": "https://youtu.be/XA9nicGlHZI?t=2811"
+                            },
+                            {
+                                "title": "Useful Series and DataFrame methods",
+                                "url": "https://youtu.be/XA9nicGlHZI?t=4323"
+                            }
+                        ],
                         "number": 1,
                         "date": "2022-09-22",
                         "topic": "Introduction",
