@@ -66,6 +66,36 @@
                             "path": "lectures/schedules/tr/01-intro/notebook"
                         }
                     }
+                },
+                "02-pandas": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 1,
+                        "date": "2022-09-22",
+                        "topic": "Introduction",
+                        "reading": {
+                            "title": "Chapter 1 - Introduction to Data Science",
+                            "url": "http://notes.dsc80.com/content/01/introduction.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/02-pandas/notebook"
+                        }
+                    }
+                },
+                "03-messy_data": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 1,
+                        "date": "2022-09-22",
+                        "topic": "Introduction",
+                        "reading": {
+                            "title": "Chapter 1 - Introduction to Data Science",
+                            "url": "http://notes.dsc80.com/content/01/introduction.html"
+                        }
+                    },
+                    "artifacts": {}
                 }
             }
         },
