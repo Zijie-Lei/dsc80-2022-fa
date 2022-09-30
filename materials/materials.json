@@ -114,7 +114,11 @@
                             "url": "https://notes.dsc80.com/content/04/introduction.html"
                         }
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/03-messy_data/notebook"
+                        }
+                    }
                 }
             }
         },
