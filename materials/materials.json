@@ -407,7 +407,11 @@
                         "checkpoint_due": "2022-10-06 23:59:00",
                         "due": "2022-10-13 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "projects/01-gradebook/assignment"
+                        }
+                    }
                 },
                 "02-covid_vax": {
                     "metadata": {
