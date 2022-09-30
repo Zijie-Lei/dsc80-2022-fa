@@ -105,7 +105,24 @@
                 },
                 "03-messy_data": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Messy Data",
+                                "url": "https://youtu.be/wOBjoxBJVlI?t=259"
+                            },
+                            {
+                                "title": "Kinds of Data",
+                                "url": "https://youtu.be/wOBjoxBJVlI?t=949"
+                            },
+                            {
+                                "title": "Unfaithful data",
+                                "url": "https://youtu.be/wOBjoxBJVlI?t=3046"
+                            },
+                            {
+                                "title": "Missing Values",
+                                "url": "https://youtu.be/wOBjoxBJVlI?t=4109"
+                            }
+                        ],
                         "number": 3,
                         "date": "2022-09-29",
                         "topic": "Messy Data",
