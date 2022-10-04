@@ -318,7 +318,11 @@
                         "number": 2,
                         "due": "2022-10-10 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/02-pandas/assignment"
+                        }
+                    }
                 },
                 "03-hyp-dataframes": {
                     "metadata": {
