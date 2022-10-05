@@ -136,6 +136,23 @@
                             "path": "lectures/schedules/tr/03-messy_data/notebook"
                         }
                     }
+                },
+                "04-hypothesis_testing": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 4,
+                        "date": "2022-10-04",
+                        "topic": "Hypothesis Testing",
+                        "reading": {
+                            "title": "Chapter 4.4 - Hypothesis Testing",
+                            "url": "http://notes.dsc80.com/content/04/asking-questions.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/04-hypothesis_testing/notebook"
+                        }
+                    }
                 }
             }
         },
