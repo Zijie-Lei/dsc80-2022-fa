@@ -139,7 +139,24 @@
                 },
                 "04-hypothesis_testing": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Hypothesis Testing",
+                                "url": "https://youtu.be/Ty5KQzNUPFw?t=364"
+                            },
+                            {
+                                "title": "Efficiency",
+                                "url": "https://youtu.be/Ty5KQzNUPFw?t=2129"
+                            },
+                            {
+                                "title": "TVD",
+                                "url": "https://youtu.be/Ty5KQzNUPFw?t=2537"
+                            },
+                            {
+                                "title": "Example of penguins",
+                                "url": "https://youtu.be/Ty5KQzNUPFw?t=3959"
+                            }
+                        ],
                         "number": 4,
                         "date": "2022-10-04",
                         "topic": "Hypothesis Testing",
