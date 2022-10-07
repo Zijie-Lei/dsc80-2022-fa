@@ -231,7 +231,11 @@
                         "number": 2,
                         "due": "2022-10-08 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "discussions/02-pandas/assignment"
+                        }
+                    }
                 },
                 "03-hyp-testing-combining-df": {
                     "metadata": {
