@@ -171,6 +171,32 @@
                         }
                     }
                 },
+                "05-grouping": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 6,
+                        "date": "2022-10-11",
+                        "topic": "Grouping",
+                        "reading": {
+                            "title": "Chapter 5 - Aggregations",
+                            "url": "https://notes.dsc80.com/content/05/introduction.html"
+                        }
+                    },
+                    "artifacts": {}
+                },
+                "06-combining": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 7,
+                        "date": "2022-10-13",
+                        "topic": "Combining",
+                        "reading": {
+                            "title": "Chapter 5 - Aggregations",
+                            "url": "https://notes.dsc80.com/content/05/introduction.html"
+                        }
+                    },
+                    "artifacts": {}
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
