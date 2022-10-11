@@ -393,7 +393,11 @@
                         "number": 3,
                         "due": "2022-10-17 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/03-hyp-dataframes/assignment"
+                        }
+                    }
                 },
                 "04-pivot-perm-missing": {
                     "metadata": {
