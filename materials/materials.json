@@ -182,7 +182,11 @@
                             "url": "https://notes.dsc80.com/content/05/introduction.html"
                         }
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/05-grouping/notebook"
+                        }
+                    }
                 },
                 "06-combining": {
                     "metadata": {
