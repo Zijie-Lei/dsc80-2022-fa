@@ -313,21 +313,12 @@
                     },
                     "artifacts": {}
                 },
-                "07-scraping-regex-old": {
+                "08-scraping_regex": {
                     "metadata": {
                         "topic": "Plotting",
                         "date": "2021-12-03 00:00:00",
                         "number": 7,
                         "due": "2021-12-04 23:59:00"
-                    },
-                    "artifacts": {}
-                },
-                "08-sklearn": {
-                    "metadata": {
-                        "topic": "sklearn",
-                        "date": "2021-11-19 00:00:00",
-                        "number": 8,
-                        "due": "2021-11-20 23:59:00"
                     },
                     "artifacts": {}
                 },
