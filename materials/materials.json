@@ -175,20 +175,16 @@
                     "metadata": {
                         "videos": [
                             {
-                                "title": "Grouping",
-                                "url": "https://youtu.be/W3dPUNQvpk4?t=151"
+                                "title": "Data Granularity and groupby",
+                                "url": "https://youtu.be/nGK66i6I9NA"
                             },
                             {
-                                "title": "Groupby",
-                                "url": "https://youtu.be/W3dPUNQvpk4?t=868"
+                                "title": "Pivot Tables",
+                                "url": "https://youtu.be/DZU_2e29mMs"
                             },
                             {
-                                "title": "Pivoting",
-                                "url": "https://youtu.be/W3dPUNQvpk4?t=2998"
-                            },
-                            {
-                                "title": "Simpson paradox",
-                                "url": "https://youtu.be/W3dPUNQvpk4?t=3541"
+                                "title": "Simpson's Paradox",
+                                "url": "https://youtu.be/gW4RUashlDg"
                             }
                         ],
                         "number": 6,
@@ -197,7 +193,8 @@
                         "reading": {
                             "title": "Chapter 5 - Aggregations",
                             "url": "https://notes.dsc80.com/content/05/introduction.html"
-                        }
+                        },
+                        "note": "<p style=\"font-size: 10pt\">\n    Once again, the microphone unfortunately stopped working partway through\n    this quarter's podcast recording, so we've uploaded\n    videos from a previous quarter instead. They cover\n    the same material as what was discussed in Lecture.\n    I'm checking with campus IT to find out what the issue is.\n</p>"
                     },
                     "artifacts": {
                         "notebook": {
