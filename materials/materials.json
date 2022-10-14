@@ -173,7 +173,24 @@
                 },
                 "05-grouping": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Grouping",
+                                "url": "https://youtu.be/W3dPUNQvpk4?t=151"
+                            },
+                            {
+                                "title": "Groupby",
+                                "url": "https://youtu.be/W3dPUNQvpk4?t=868"
+                            },
+                            {
+                                "title": "Pivoting",
+                                "url": "https://youtu.be/W3dPUNQvpk4?t=2998"
+                            },
+                            {
+                                "title": "Simpson paradox",
+                                "url": "https://youtu.be/W3dPUNQvpk4?t=3541"
+                            }
+                        ],
                         "number": 6,
                         "date": "2022-10-11",
                         "topic": "Grouping",
