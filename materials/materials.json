@@ -521,7 +521,11 @@
                         "checkpoint_due": "2022-10-20 23:59:00",
                         "due": "2022-10-27 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "projects/02-covid_vax/assignment"
+                        }
+                    }
                 },
                 "03-eda/fa21": {
                     "metadata": {
