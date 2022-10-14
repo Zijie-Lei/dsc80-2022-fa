@@ -207,7 +207,12 @@
                 },
                 "06-combining": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Combining Data",
+                                "url": "https://youtu.be/rHZOXpx_9Co?t=272"
+                            }
+                        ],
                         "number": 7,
                         "date": "2022-10-13",
                         "topic": "Combining",
