@@ -208,6 +208,22 @@
                             {
                                 "title": "Combining Data",
                                 "url": "https://youtu.be/rHZOXpx_9Co?t=272"
+                            },
+                            {
+                                "title": "Working With Time Series Data",
+                                "url": "https://youtu.be/rHZOXpx_9Co?t=985"
+                            },
+                            {
+                                "title": "Numba",
+                                "url": "https://youtu.be/rHZOXpx_9Co?t=2371"
+                            },
+                            {
+                                "title": "Joining and Merging",
+                                "url": "https://youtu.be/rHZOXpx_9Co?t=2964"
+                            },
+                            {
+                                "title": "Many-To-One & Many-To-Many Joins",
+                                "url": "https://youtu.be/rHZOXpx_9Co?t=3762"
                             }
                         ],
                         "number": 7,
