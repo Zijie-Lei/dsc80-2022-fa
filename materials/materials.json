@@ -206,11 +206,7 @@
                     "metadata": {
                         "videos": [
                             {
-                                "title": "Concatenating Vertically",
-                                "url": "https://youtu.be/2nTvFwEXJM4"
-                            },
-                            {
-                                "title": "Working With Time Series Data",
+                                "title": "Working with Times",
                                 "url": "https://youtu.be/gxYY66OzH6g"
                             },
                             {
@@ -218,12 +214,12 @@
                                 "url": "https://youtu.be/7oW3gJG8rDo"
                             },
                             {
-                                "title": "Joining and Merging",
+                                "title": "Joining with pd.merge",
                                 "url": "https://youtu.be/8J4DNMOMnRw"
                             },
                             {
-                                "title": "Many-To-One & Many-To-Many Joins",
-                                "url": "https://youtu.be/8J4DNMOMnRw"
+                                "title": "Many-to-* Joins, and a Demo",
+                                "url": "https://youtu.be/5Iumi9F1RZk"
                             }
                         ],
                         "number": 7,
@@ -233,7 +229,7 @@
                             "title": "Chapter 5 - Aggregations",
                             "url": "https://notes.dsc80.com/content/05/introduction.html"
                         },
-                        "note": "<p style=\"font-size: 10pt\">\n    The microphone unfortunately stopped working partway through\n    the podcast recording, so we've uploaded\n    videos from a previous quarter instead. They cover\n    the same material as what was discussed in Lecture.\n</p>\n  "
+                        "note": "<p style=\"font-size: 10pt\">\n    The podcast system is clearly having problems, as the audio <i>once\n    again</i> stopped partway through the lecture. Posted above are old\n    videos. I'll send <i>another</i> email to tech support. Sorry\n    for the inconvenience.\n</p>"
                     },
                     "artifacts": {
                         "notebook": {
