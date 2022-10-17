@@ -206,24 +206,24 @@
                     "metadata": {
                         "videos": [
                             {
-                                "title": "Combining Data",
-                                "url": "https://youtu.be/rHZOXpx_9Co?t=272"
+                                "title": "Concatenating Vertically",
+                                "url": "https://youtu.be/2nTvFwEXJM4"
                             },
                             {
                                 "title": "Working With Time Series Data",
-                                "url": "https://youtu.be/rHZOXpx_9Co?t=985"
+                                "url": "https://youtu.be/gxYY66OzH6g"
                             },
                             {
-                                "title": "Numba",
-                                "url": "https://youtu.be/rHZOXpx_9Co?t=2371"
+                                "title": "Concatenating Horizontally",
+                                "url": "https://youtu.be/7oW3gJG8rDo"
                             },
                             {
                                 "title": "Joining and Merging",
-                                "url": "https://youtu.be/rHZOXpx_9Co?t=2964"
+                                "url": "https://youtu.be/8J4DNMOMnRw"
                             },
                             {
                                 "title": "Many-To-One & Many-To-Many Joins",
-                                "url": "https://youtu.be/rHZOXpx_9Co?t=3762"
+                                "url": "https://youtu.be/8J4DNMOMnRw"
                             }
                         ],
                         "number": 7,
@@ -232,7 +232,8 @@
                         "reading": {
                             "title": "Chapter 5 - Aggregations",
                             "url": "https://notes.dsc80.com/content/05/introduction.html"
-                        }
+                        },
+                        "note": "<p style=\"font-size: 10pt\">\n    The microphone unfortunately stopped working partway through\n    the podcast recording, so we've uploaded\n    videos from a previous quarter instead. They cover\n    the same material as what was discussed in Lecture.\n</p>\n  "
                     },
                     "artifacts": {
                         "notebook": {
