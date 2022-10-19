@@ -484,7 +484,11 @@
                         "number": 4,
                         "due": "2022-10-24 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/04-pivot-perm-missing/assignment"
+                        }
+                    }
                 },
                 "05-imputation": {
                     "metadata": {
