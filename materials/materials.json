@@ -237,6 +237,36 @@
                         }
                     }
                 },
+                "07-permutation": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 8,
+                        "date": "2022-10-18",
+                        "topic": "Permutation Testing",
+                        "reading": {
+                            "title": "Chapter 5.5 - Permutation Tests",
+                            "url": "https://notes.dsc80.com/content/05/permutation-tests.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/07-permutation/notebook"
+                        }
+                    }
+                },
+                "08-missingness": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 9,
+                        "date": "2022-10-20",
+                        "topic": "Missing Data",
+                        "reading": {
+                            "title": "Chapter 5 - Missing Data",
+                            "url": "https://notes.dsc80.com/content/06/introduction.html"
+                        }
+                    },
+                    "artifacts": {}
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
