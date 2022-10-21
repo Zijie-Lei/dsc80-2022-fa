@@ -271,16 +271,16 @@
                     "metadata": {
                         "videos": [
                             {
-                                "title": "Permutation Test",
-                                "url": "https://youtu.be/MOdvSw6leDU?t=216"
+                                "title": "Missing Data",
+                                "url": "https://youtu.be/W-2ZbCa9ylM?t=335"
                             },
                             {
-                                "title": "Difference Between Categorical Distributions",
-                                "url": "https://youtu.be/MOdvSw6leDU?t=2526"
+                                "title": "Assessing missingness through data",
+                                "url": "https://youtu.be/W-2ZbCa9ylM?t=2566"
                             },
                             {
-                                "title": "Speeding Things Up",
-                                "url": "https://youtu.be/MOdvSw6leDU?t=3521"
+                                "title": "The Kolmogorov-Smirnov test statistic",
+                                "url": "https://youtu.be/W-2ZbCa9ylM?t=4020"
                             }
                         ],
                         "number": 9,
