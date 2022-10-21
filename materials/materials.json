@@ -278,7 +278,11 @@
                             "url": "https://notes.dsc80.com/content/06/introduction.html"
                         }
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/08-missingness/notebook"
+                        }
+                    }
                 },
                 "guest-lecture": {
                     "metadata": {
