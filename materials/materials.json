@@ -239,7 +239,20 @@
                 },
                 "07-permutation": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Permutation Test",
+                                "url": "https://youtu.be/MOdvSw6leDU?t=216"
+                            },
+                            {
+                                "title": "Difference Between Categorical Distributions",
+                                "url": "https://youtu.be/MOdvSw6leDU?t=2526"
+                            },
+                            {
+                                "title": "Speeding Things Up",
+                                "url": "https://youtu.be/MOdvSw6leDU?t=3521"
+                            }
+                        ],
                         "number": 8,
                         "date": "2022-10-18",
                         "topic": "Permutation Testing",
