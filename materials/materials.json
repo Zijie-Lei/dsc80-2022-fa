@@ -299,7 +299,24 @@
                 },
                 "09-imputation": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Handling missing values",
+                                "url": "https://youtu.be/bp5rEyBhyvg?t=862"
+                            },
+                            {
+                                "title": "Mean Imputation",
+                                "url": "https://youtu.be/bp5rEyBhyvg?t=1465"
+                            },
+                            {
+                                "title": "Probabilistic imputation",
+                                "url": "https://youtu.be/bp5rEyBhyvg?t=2839"
+                            },
+                            {
+                                "title": "Summary",
+                                "url": "https://youtu.be/bp5rEyBhyvg?t=3633"
+                            }
+                        ],
                         "number": 10,
                         "date": "2022-10-25",
                         "topic": "Imputing Values",
