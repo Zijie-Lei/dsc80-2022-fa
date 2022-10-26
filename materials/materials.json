@@ -297,6 +297,36 @@
                         }
                     }
                 },
+                "09-imputation": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 10,
+                        "date": "2022-10-25",
+                        "topic": "Imputing Values",
+                        "reading": {
+                            "title": "Chapter 6 - Missing Data",
+                            "url": "https://notes.dsc80.com/content/06/handling-missing-data.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/09-imputation/notebook"
+                        }
+                    }
+                },
+                "10-http": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 11,
+                        "date": "2022-10-27",
+                        "topic": "HTTP",
+                        "reading": {
+                            "title": "Chapter 7 - Collecting Data",
+                            "url": "https://notes.dsc80.com/content/07/introduction.html"
+                        }
+                    },
+                    "artifacts": {}
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
