@@ -561,7 +561,11 @@
                         "number": 5,
                         "due": "2022-10-31 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/05-imputation/assignment"
+                        }
+                    }
                 },
                 "06-http": {
                     "metadata": {
