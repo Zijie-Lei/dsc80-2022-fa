@@ -333,7 +333,20 @@
                 },
                 "10-http": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "HTTP",
+                                "url": "https://youtu.be/qvAN5o6Y_N0?t=569"
+                            },
+                            {
+                                "title": "Making HTTP Request",
+                                "url": "https://youtu.be/qvAN5o6Y_N0?t=1357"
+                            },
+                            {
+                                "title": "API and Scraping",
+                                "url": "https://youtu.be/qvAN5o6Y_N0?t=3011"
+                            }
+                        ],
                         "number": 11,
                         "date": "2022-10-27",
                         "topic": "HTTP",
