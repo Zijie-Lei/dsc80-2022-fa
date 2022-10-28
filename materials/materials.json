@@ -716,27 +716,20 @@
                         }
                     }
                 },
-                "03-eda/fa21": {
+                "03-topic": {
                     "metadata": {
                         "number": 3,
                         "released": "2021-10-29 00:00:00",
-                        "topic": "Topic Projects",
+                        "topic": "Exploratory Data Analysis",
                         "checkpoint_released": "2021-10-29 00:00:00",
                         "checkpoint_due": null,
                         "due": "2021-11-12 23:59:00"
                     },
-                    "artifacts": {}
-                },
-                "03-topic": {
-                    "metadata": {
-                        "number": 4,
-                        "released": "2021-10-29 00:00:00",
-                        "topic": "Topic Projects",
-                        "checkpoint_released": "2021-10-29 00:00:00",
-                        "checkpoint_due": null,
-                        "due": "2021-11-12 23:59:00"
-                    },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "projects/03-topic/assignment"
+                        }
+                    }
                 },
                 "04-language_models": {
                     "metadata": {
