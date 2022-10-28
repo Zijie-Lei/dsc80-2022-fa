@@ -719,11 +719,11 @@
                 "03-topic": {
                     "metadata": {
                         "number": 3,
-                        "released": "2021-10-29 00:00:00",
+                        "released": "2022-10-28 00:00:00",
                         "topic": "Exploratory Data Analysis",
-                        "checkpoint_released": "2021-10-29 00:00:00",
+                        "checkpoint_released": "2022-10-28 00:00:00",
                         "checkpoint_due": null,
-                        "due": "2021-11-12 23:59:00"
+                        "due": "2022-11-10 23:59:00"
                     },
                     "artifacts": {
                         "assignment": {
