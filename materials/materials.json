@@ -342,7 +342,11 @@
                             "url": "https://notes.dsc80.com/content/07/introduction.html"
                         }
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/10-http/notebook"
+                        }
+                    }
                 },
                 "guest-lecture": {
                     "metadata": {
