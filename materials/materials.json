@@ -462,21 +462,34 @@
                     },
                     "artifacts": {}
                 },
+                "05-midterm-review": {
+                    "metadata": {
+                        "topic": "Midterm Review",
+                        "date": "2022-11-04 15:00:00",
+                        "number": 6,
+                        "due": "2022-11-05 23:59:00"
+                    },
+                    "artifacts": {
+                        "assignment": {
+                            "path": "discussions/05-midterm-review/assignment"
+                        }
+                    }
+                },
                 "05-scraping": {
                     "metadata": {
                         "topic": "Plotting",
-                        "date": "2022-11-11 15:00:00",
+                        "date": "2022-11-18 15:00:00",
                         "number": 7,
-                        "due": "2022-11-12 23:59:00"
+                        "due": "2022-11-19 23:59:00"
                     },
                     "artifacts": {}
                 },
                 "06-regex-nlp": {
                     "metadata": {
                         "topic": "Plotting",
-                        "date": "2022-11-25 15:00:00",
+                        "date": "2022-12-02 15:00:00",
                         "number": 7,
-                        "due": "2022-11-26 23:59:00"
+                        "due": "2022-12-03 23:59:00"
                     },
                     "artifacts": {}
                 },
