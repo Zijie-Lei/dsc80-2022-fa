@@ -621,7 +621,11 @@
                         "number": 6,
                         "due": "2022-11-07 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/06-http/assignment"
+                        }
+                    }
                 },
                 "07-regex": {
                     "metadata": {
