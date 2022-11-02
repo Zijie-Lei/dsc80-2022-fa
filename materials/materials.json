@@ -373,8 +373,8 @@
                                 "url": "https://youtu.be/zGWYyvrgx2w?t=1478"
                             },
                             {
-                                "title": "Example - Scraping the HDSI Faculty Page",
-                                "url": "https://youtu.be/zGWYyvrgx2w?t=2712"
+                                "title": "Example - Get the Seminars and Their Dates",
+                                "url": "https://youtu.be/t9VLJiypjVc?t=1229"
                             },
                             {
                                 "title": "Example - Scraping Quotes",
@@ -387,7 +387,8 @@
                         "reading": {
                             "title": "Chapter 7 - Collecting Data",
                             "url": "https://notes.dsc80.com/content/07/introduction.html"
-                        }
+                        },
+                        "note": "<p style=\"font-size: 10pt\">\n    The last two sections of the lecture don't have sound so I just put the video\n    from previous quarter. Noted that instead of scraping the HDSI Faculty page, the previous lecture is about \n    getting the seminars and their dates. \n</p>"
                     },
                     "artifacts": {
                         "notebook": {
