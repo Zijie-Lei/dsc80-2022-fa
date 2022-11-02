@@ -361,6 +361,23 @@
                         }
                     }
                 },
+                "11-parsing_html": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 12,
+                        "date": "2022-11-01",
+                        "topic": "Parsing HTML",
+                        "reading": {
+                            "title": "Chapter 7 - Collecting Data",
+                            "url": "https://notes.dsc80.com/content/07/introduction.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/11-parsing_html/notebook"
+                        }
+                    }
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
