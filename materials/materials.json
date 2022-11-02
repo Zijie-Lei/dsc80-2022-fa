@@ -363,7 +363,24 @@
                 },
                 "11-parsing_html": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Parsing HTML",
+                                "url": "https://youtu.be/zGWYyvrgx2w?t=365"
+                            },
+                            {
+                                "title": "Parsing HTML Via Beautiful Soup",
+                                "url": "https://youtu.be/zGWYyvrgx2w?t=1478"
+                            },
+                            {
+                                "title": "Example - Scraping the HDSI Faculty Page",
+                                "url": "https://youtu.be/zGWYyvrgx2w?t=2712"
+                            },
+                            {
+                                "title": "Example - Scraping Quotes",
+                                "url": "https://www.youtube.com/watch?v=LSBcvPDIhwA&list=PLQWIvzQky-s7qdFkIQh-NS25D4fmowHUq&index=42"
+                            }
+                        ],
                         "number": 12,
                         "date": "2022-11-01",
                         "topic": "Parsing HTML",
