@@ -528,6 +528,19 @@
                     },
                     "artifacts": {}
                 },
+                "06-scraping": {
+                    "metadata": {
+                        "topic": "Plotting",
+                        "date": "2022-12-09 15:00:00",
+                        "number": 6,
+                        "due": "2022-12-10 23:59:00"
+                    },
+                    "artifacts": {
+                        "assignment": {
+                            "path": "discussions/06-scraping/assignment"
+                        }
+                    }
+                },
                 "07-linear-reg-features": {
                     "metadata": {
                         "topic": "sklearn",
