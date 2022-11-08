@@ -396,6 +396,23 @@
                         }
                     }
                 },
+                "12-regex": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 13,
+                        "date": "2022-11-03",
+                        "topic": "Working with Text",
+                        "reading": {
+                            "title": "Chapter 8 - Information Extraction",
+                            "url": "https://notes.dsc80.com/content/08/patterns.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/12-regex/notebook"
+                        }
+                    }
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
