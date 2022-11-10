@@ -398,7 +398,28 @@
                 },
                 "12-regex": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Working with Texts",
+                                "url": "https://youtu.be/NUF0NzYsAsk?t=123"
+                            },
+                            {
+                                "title": "Basic Regular Expression",
+                                "url": "https://youtu.be/NUF0NzYsAsk?t=1204"
+                            },
+                            {
+                                "title": "Intermediate Regrex",
+                                "url": "https://youtu.be/NUF0NzYsAsk?t=2537"
+                            },
+                            {
+                                "title": "Regex in Python",
+                                "url": "https://youtu.be/NUF0NzYsAsk?t=4223"
+                            },
+                            {
+                                "title": "Log Parsing",
+                                "url": "https://youtu.be/NUF0NzYsAsk?t=4507"
+                            }
+                        ],
                         "number": 13,
                         "date": "2022-11-08",
                         "topic": "Working with Text",
