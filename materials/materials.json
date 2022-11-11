@@ -436,7 +436,24 @@
                 },
                 "13-text_features": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Text Features",
+                                "url": "https://youtu.be/wlWo7T1RSXM?t=167"
+                            },
+                            {
+                                "title": "Bag of Words",
+                                "url": "https://youtu.be/wlWo7T1RSXM?t=1359"
+                            },
+                            {
+                                "title": "TF-IDF",
+                                "url": "https://youtu.be/wlWo7T1RSXM?t=3294"
+                            },
+                            {
+                                "title": "State of the Union Addresses",
+                                "url": "https://youtu.be/wlWo7T1RSXM?t=4349"
+                            }
+                        ],
                         "number": 14,
                         "date": "2022-11-15",
                         "topic": "Text Features",
