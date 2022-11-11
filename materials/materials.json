@@ -434,6 +434,23 @@
                         }
                     }
                 },
+                "13-text_features": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 14,
+                        "date": "2022-11-15",
+                        "topic": "Text Features",
+                        "reading": {
+                            "title": "Chapter 8 - Information Extraction",
+                            "url": "https://notes.dsc80.com/content/08/nlp.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/13-text_features/notebook"
+                        }
+                    }
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
