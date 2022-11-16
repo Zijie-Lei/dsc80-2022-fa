@@ -470,7 +470,24 @@
                 },
                 "14-features": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Features",
+                                "url": "https://youtu.be/7044833hx1M?t=147"
+                            },
+                            {
+                                "title": "Example - Predicting Child Heights",
+                                "url": "https://youtu.be/7044833hx1M?t=594"
+                            },
+                            {
+                                "title": "Feature Engineering",
+                                "url": "https://youtu.be/7044833hx1M?t=3052"
+                            },
+                            {
+                                "title": "Modeling",
+                                "url": "https://youtu.be/7044833hx1M?t=4004"
+                            }
+                        ],
                         "number": 15,
                         "date": "2022-11-15",
                         "topic": "Features",
