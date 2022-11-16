@@ -814,7 +814,11 @@
                         "number": 8,
                         "due": "2022-11-21 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/08-features/assignment"
+                        }
+                    }
                 },
                 "09-sklearn": {
                     "metadata": {
