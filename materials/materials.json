@@ -468,6 +468,36 @@
                         }
                     }
                 },
+                "14-features": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 15,
+                        "date": "2022-11-15",
+                        "topic": "Features",
+                        "reading": {
+                            "title": "Chapter 9 - Introduction to Features",
+                            "url": "https://notes.dsc80.com/content/09/introduction.html"
+                        }
+                    },
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/14-features/notebook"
+                        }
+                    }
+                },
+                "15-pipelines": {
+                    "metadata": {
+                        "videos": null,
+                        "number": 16,
+                        "date": "2022-11-22",
+                        "topic": "sklearn Pipelines",
+                        "reading": {
+                            "title": "Chapter 9 - Introduction to Features",
+                            "url": "https://notes.dsc80.com/content/09/data-pipelines.html"
+                        }
+                    },
+                    "artifacts": {}
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
