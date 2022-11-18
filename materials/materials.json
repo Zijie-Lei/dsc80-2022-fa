@@ -659,21 +659,12 @@
                     },
                     "artifacts": {}
                 },
-                "06-regex-nlp": {
-                    "metadata": {
-                        "topic": "Plotting",
-                        "date": "2022-12-02 15:00:00",
-                        "number": 7,
-                        "due": "2022-12-03 23:59:00"
-                    },
-                    "artifacts": {}
-                },
                 "06-scraping": {
                     "metadata": {
                         "topic": "Plotting",
-                        "date": "2022-12-09 15:00:00",
+                        "date": "2022-11-25 15:00:00",
                         "number": 6,
-                        "due": "2022-12-10 23:59:00"
+                        "due": "2022-11-26 23:59:00"
                     },
                     "artifacts": {
                         "assignment": {
@@ -690,12 +681,25 @@
                     },
                     "artifacts": {}
                 },
-                "08-scraping_regex": {
+                "07-regex-nlp": {
                     "metadata": {
                         "topic": "Plotting",
                         "date": "2021-12-03 00:00:00",
                         "number": 7,
                         "due": "2021-12-04 23:59:00"
+                    },
+                    "artifacts": {
+                        "assignment": {
+                            "path": "discussions/07-regex-nlp/assignment"
+                        }
+                    }
+                },
+                "08-scraping_regex": {
+                    "metadata": {
+                        "topic": "Plotting",
+                        "date": "2021-12-17 00:00:00",
+                        "number": 7,
+                        "due": "2021-12-18 23:59:00"
                     },
                     "artifacts": {}
                 },
