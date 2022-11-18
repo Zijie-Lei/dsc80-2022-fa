@@ -504,7 +504,24 @@
                 },
                 "15-pipelines": {
                     "metadata": {
-                        "videos": null,
+                        "videos": [
+                            {
+                                "title": "Sklearn Pipelines",
+                                "url": "https://youtu.be/Vaivzv7b28M?t=357"
+                            },
+                            {
+                                "title": "Building ML Models Using Sklearn",
+                                "url": "https://youtu.be/Vaivzv7b28M?t=590"
+                            },
+                            {
+                                "title": "Transformers in Sklearn",
+                                "url": "https://youtu.be/Vaivzv7b28M?t=776"
+                            },
+                            {
+                                "title": "Models in Sklearn",
+                                "url": "https://youtu.be/Vaivzv7b28M?t=1810"
+                            }
+                        ],
                         "number": 16,
                         "date": "2022-11-17",
                         "topic": "sklearn Pipelines",
