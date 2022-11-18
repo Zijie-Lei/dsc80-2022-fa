@@ -513,7 +513,11 @@
                             "url": "https://notes.dsc80.com/content/09/data-pipelines.html"
                         }
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/15-pipelines/notebook"
+                        }
+                    }
                 },
                 "guest-lecture": {
                     "metadata": {
