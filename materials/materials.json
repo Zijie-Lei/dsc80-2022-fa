@@ -536,6 +536,29 @@
                         }
                     }
                 },
+                "16-bias_and_variance": {
+                    "metadata": {
+                        "videos": [
+                            {
+                                "title": "Model Validation",
+                                "url": "https://youtu.be/aYw2JivFTqo"
+                            },
+                            {
+                                "title": "Example: Polynomial Regression",
+                                "url": "https://youtu.be/6jFYeQp28Ag"
+                            },
+                            {
+                                "title": "Example: Decision Trees",
+                                "url": "https://youtu.be/Rg_cQ_7f_6Y"
+                            }
+                        ],
+                        "number": 17,
+                        "date": "2022-11-22",
+                        "topic": "Model Validation",
+                        "reading": null
+                    },
+                    "artifacts": {}
+                },
                 "guest-lecture": {
                     "metadata": {
                         "videos": null,
