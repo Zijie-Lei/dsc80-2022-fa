@@ -954,16 +954,20 @@
                         }
                     }
                 },
-                "05-topic-II/fa21": {
+                "05-topic-II": {
                     "metadata": {
                         "number": 5,
-                        "released": "2021-11-29 00:00:00",
+                        "released": "2022-11-23 00:00:00",
                         "topic": "Topic Projects, Part II",
-                        "checkpoint_released": "2021-11-29 00:00:00",
+                        "checkpoint_released": "2022-11-23 00:00:00",
                         "checkpoint_due": null,
-                        "due": "2021-12-08 23:59:00"
+                        "due": "2022-12-07 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "projects/05-topic-II/assignment"
+                        }
+                    }
                 }
             }
         },
