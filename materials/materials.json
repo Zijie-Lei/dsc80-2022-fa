@@ -848,7 +848,11 @@
                         "number": 9,
                         "due": "2022-12-01 23:59:00"
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "assignment": {
+                            "path": "labs/09-sklearn/assignment"
+                        }
+                    }
                 }
             }
         },
