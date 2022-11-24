@@ -557,7 +557,11 @@
                         "topic": "Model Validation",
                         "reading": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "notebook": {
+                            "path": "lectures/schedules/tr/16-bias_and_variance/notebook"
+                        }
+                    }
                 },
                 "guest-lecture": {
                     "metadata": {
